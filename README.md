@@ -326,15 +326,7 @@ Successfully completed the **90 Days of DevOps** challenge by building hands-on 
 
 ---
 
-# 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=withmalathi&theme=tokyo-night"/>
-
-</p>
-
----
 
 # 📚 Learning Journey
 
