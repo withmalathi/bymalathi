@@ -12,13 +12,13 @@
 </p>
 
 
-<img src="https://github.com/bymalathi/github-actions-practice/actions/workflows/docker-publish.yml/badge.svg"/>
+<img src="https://github.com/withmalathi/github-actions-practice/actions/workflows/docker-publish.yml/badge.svg"/>
 
 
 
 <br><br>
 
-<a href="https://linkedin.com/in/bymalathi">
+<a href="https://linkedin.com/in/withmalathi">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -26,15 +26,15 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/bymalathi">
+<a href="https://github.com/withmalathi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@bymalathi">
+<a href="https://medium.com/@withmalathi">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="https://hashnode.com/@bymalathi">
+<a href="https://hashnode.com/@withmalathi">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
@@ -163,7 +163,7 @@ An end-to-end DevOps implementation for a Spring Boot banking application, demon
 - Applied Infrastructure as Code (IaC) best practices
 - Worked with a production-style multi-tier application architecture
 
-🔗 **Repository:** [AI-BankApp-DevOps](https://github.com/bymalathi/AI-BankApp-DevOps)
+🔗 **Repository:** [AI-BankApp-DevOps](https://github.com/withmalathi/AI-BankApp-DevOps)
 
 ---
 
@@ -194,7 +194,7 @@ Designed and implemented an end-to-end **DevSecOps CI/CD pipeline** that demonst
 - Produced architecture diagrams, optimization reports, build metrics, and technical documentation following enterprise DevSecOps best practices
 
 
-🔗 **Repository:** [Docker Build Optimization Case Study](https://github.com/bymalathi/docker-build-optimization-case-study)
+🔗 **Repository:** [Docker Build Optimization Case Study](https://github.com/withmalathi/docker-build-optimization-case-study)
 
 ---
 
@@ -216,7 +216,7 @@ A hands-on CI/CD project demonstrating automated software delivery using GitHub 
 - Improved deployment automation
 
 
-🔗 **Repository:** [GitHub Actions Capstone](https://github.com/bymalathi/github-actions-capstone)
+🔗 **Repository:** [GitHub Actions Capstone](https://github.com/withmalathi/github-actions-capstone)
 
 ---
 
@@ -237,7 +237,7 @@ A DevOps project demonstrating Kubernetes deployments automated through GitHub A
 - Managed Kubernetes manifests
 - Improved deployment consistency through automation
 
-🔗 **Repository:** [GitHub Actions Kubernetes Masterclass](https://github.com/bymalathi/github-actions-kubernetes-masterclass)
+🔗 **Repository:** [GitHub Actions Kubernetes Masterclass](https://github.com/withmalathi/github-actions-kubernetes-masterclass)
 
 ---
 
@@ -257,7 +257,7 @@ An ongoing hands-on DevOps internship focused on applying DevOps concepts throug
 - Applying Infrastructure as Code principles
 - Strengthening Linux administration and cloud skills
 
-🔗 **Repository:** [CBC-BAN DevOps Internship](https://github.com/bymalathi/CBC-Ban-DevOps-Internship)
+🔗 **Repository:** [CBC-BAN DevOps Internship](https://github.com/withmalathi/CBC-Ban-DevOps-Internship)
 
 ---
 
@@ -276,7 +276,7 @@ An ongoing hands-on AWS learning journey focused on understanding core cloud ser
 - Security Best Practices
 - Billing & Cost Management
 
-🔗 **Repository:** [10 Weeks of AWS](https://github.com/bymalathi/10WeeksOfAWS)
+🔗 **Repository:** [10 Weeks of AWS](https://github.com/withmalathi/10WeeksOfAWS)
 
 ---
 
@@ -304,7 +304,7 @@ Successfully completed the **90 Days of DevOps** challenge by building hands-on 
 - Implemented monitoring using Prometheus and Grafana
 - Strengthened real-world DevOps practices through daily hands-on learning
 
-🔗 **Repository:** [90 Days of DevOps](https://github.com/bymalathi/90DaysOfDevOps_TrainWithShubham)
+🔗 **Repository:** [90 Days of DevOps](https://github.com/withmalathi/90DaysOfDevOps_TrainWithShubham)
 
 ---
 
@@ -330,7 +330,7 @@ Successfully completed the **90 Days of DevOps** challenge by building hands-on 
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bymalathi&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=withmalathi&theme=tokyo-night"/>
 
 </p>
 
@@ -379,7 +379,7 @@ I'm always excited to collaborate on open-source projects, learn from the DevOps
 
 <p align="center">
 
-<a href="https://linkedin.com/in/bymalathi">
+<a href="https://linkedin.com/in/withmalathi">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -387,15 +387,15 @@ I'm always excited to collaborate on open-source projects, learn from the DevOps
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/bymalathi">
+<a href="https://github.com/withmalathi">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://medium.com/@bymalathi">
+<a href="https://medium.com/@withmalathi">
 <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
-<a href="https://hashnode.com/@bymalathi">
+<a href="https://hashnode.com/@withmalathi">
 <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/>
 </a>
 
